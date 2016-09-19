@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Update with bash...
-=======
 Update with tortoise...
->>>>>>> 807cee25ff7627ea5640eaaddcd10ab5fd500b72
+
